@@ -1,0 +1,61 @@
+.box{
+    margin-top: 1%;
+    position: relative;    
+}
+
+.content{
+    height: 42vh;
+    width:80vw;
+    position:absolute;
+    top:11rem;
+    left:7rem;
+}
+
+.h1{
+    font-size:350%;
+    font-Family:"Inter";
+    color: white;
+}
+
+.span{
+    position: relative;
+    top:-1rem;
+    font-size:130%;
+    font-Family:"Inter";
+    color: #989090;
+}
+
+.box1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    width:70rem; 
+    color: white;
+    position :absolute;
+    top:30rem;
+}
+
+.shows{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width:20%;
+    color:white;
+    padding-left: 6rem;
+}
+
+.spanAll{
+    text-decoration: underline;
+    padding-right: 2rem;
+}
+
+.card{
+    display: flex;
+    width:90%;
+    overflow-x: scroll;
+    left:6%;
+    position: relative;
+    top:-11rem;
+    scrollbar-width: none;
+}
+

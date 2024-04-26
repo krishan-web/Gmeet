@@ -1,0 +1,13 @@
+.Container{
+    /* top:11rem; */
+    position: relative;
+    top:-10rem;
+}
+
+.box{
+    padding-right: 77%;
+    font-size: larger;
+    font-weight: 700;
+    /* border: 2px solid black; */
+    justify-content: flex-start;
+}
